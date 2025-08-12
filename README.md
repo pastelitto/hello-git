@@ -1,3 +1,3 @@
 # hello-git
-Line from conflict branch
+Line from main branch
 
